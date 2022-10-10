@@ -1,5 +1,5 @@
 # Collision-Analysis-Webapp
-### This is a Data Science is an Interactive Webapp made using Streamlit and Python that uses Collision Data of New York city and provides functionalities like load, explore, visualize and interact with data.
+### This is an Interactive Webapp made using Streamlit and Python that uses Collision Data of New York city and provides functionalities like load, explore, visualize and interact with data.
 ### It is a part of project course provided by Courserra (link: https://in.coursera.org/projects/data-science-streamlit-python).
 
 ## Steps to follow:
